@@ -1,0 +1,24 @@
+h2 {
+  text-align: center;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+.control {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+@media only screen and (max-width: 767px) {
+
+  .progress{
+    margin-bottom: 5%;
+  }
+
+  .control{
+    width: 100%;
+    margin-top: 10%;
+  }
+
+}  
