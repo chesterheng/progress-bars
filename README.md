@@ -18,3 +18,6 @@ Frontend Stack
 - HTML5 | JSX 
 - CSS3 | reactstrap
 - ES2018 | React.js | Axios | Redux
+
+### Deploy with surge.sh
+- Live : [http://progress-bars.surge.sh](http://progress-bars.surge.sh)
